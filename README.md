@@ -5,7 +5,7 @@
 -->
 
 <h1 align="center">Luís Antônio M. Dawa</h1>
-<h5 align="center">Computer Science student at UFRGS, passionate about Cyber Security and Software Development.</h5>
+<h4 align="center">Computer Science student at UFRGS, passionate about Cyber Security and Software Development.</h4>
 
 ---
 
