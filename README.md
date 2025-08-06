@@ -1,16 +1,59 @@
-## Hi there 👋
-
 <!--
-**LuisDawa/LuisDawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img src="URL_TO_YOUR_BANNER" alt="Banner" />
+</p>
 -->
+
+<h1 align="center">Luís Antônio M. Dawa</h1>
+<h5 align="center">Computer Science student at UFRGS, passionate about Cyber Security and Software Development.</h5>
+
+---
+
+### 🛠️ My Toolkit
+
+<p align="left">
+  <h4>📚 Solid Foundation (Academic):</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,git,c,cpp" />
+  </a>
+  
+  <h4>🌱 Currently Exploring & Learning:</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,kotlin,androidstudio" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDawa&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📊 My Codeforces Stats
+
+<p align="left">
+  <a href="https://codeforces.com/profile/LuisDawa">
+    <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=LuisDawa&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 🚀 My Featured Projects
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 📱 **[Nexus Finance]** | *I'm currently developing my first Android app to apply my new skills!* | `Kotlin` | Coming Soon |
+| 🌐 **[Zeus Smurfs]** | *I'm currently developing my first website to apply my new skills!* | `HTML`, `CSS`, `JS`, `React` | Coming Soon |
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/luisdawa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
