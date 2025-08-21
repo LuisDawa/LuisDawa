@@ -33,6 +33,17 @@
 
 ---
 
+### 📊 My LeetCode Stats
+
+<p align="left">
+  <a href="https://leetcode.com/LuisDawa/">
+    <img align="center" src="https://leetcard.jacoblin.cool/LuisDawa?theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+<!--
 ### 📊 My Codeforces Stats
 
 <p align="left">
@@ -40,9 +51,7 @@
     <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=LuisDawa&theme=tokyonight" />
   </a>
 </p>
-
----
-
+-->
 ### 🚀 My Featured Projects
 
 | Project | Description | Stack | Link |
