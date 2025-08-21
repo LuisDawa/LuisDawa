@@ -35,7 +35,7 @@
 
 ### 📊 My LeetCode Stats
 
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/LuisDawa/">
     <img align="center" src="https://leetcard.jacoblin.cool/LuisDawa?theme=tokyonight" />
   </a>
