@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/LuisDawa/">
-    <img align="center" src="https://leetcard.jacoblin.cool/LuisDawa?theme=tokyonight" />
+    <img align="center" src="https://leetcard.jacoblin.cool/LuisDawa" />
   </a>
 </p>
 
