@@ -14,7 +14,7 @@
 <p align="left">
   <h4>📚 Solid Foundation (Academic):</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,git,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
   </a>
   
   <h4>🌱 Currently Exploring & Learning:</h4>
