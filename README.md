@@ -19,7 +19,7 @@
   
   <h4>🌱 Currently Exploring & Learning:</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,kotlin,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,kotlin,androidstudio,dart,flutter" />
   </a>
 </p>
 
