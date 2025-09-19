@@ -12,9 +12,15 @@
 ### 🛠️ My Toolkit
 
 <p align="left">
-  <h4>📚 Solid Foundation (Academic):</h4>
+  <h4>📚 Academic Foundation:</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,c,postgres,mongodb" />
+  </a>
+
+  <p align="left">
+  <h4>📚 Solid Knowledge:</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp" />
   </a>
   
   <h4>🌱 Currently Exploring & Learning:</h4>
