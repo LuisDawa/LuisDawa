@@ -43,16 +43,6 @@
 
 ---
 
-<!--
-### 📊 My Codeforces Stats
-
-<p align="center">
-  <a href="https://codeforces.com/profile/LuisDawa">
-    <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=LuisDawa&theme=dark" />
-  </a>
-</p>
--->
-
 ### 📫 Connect with Me
 
 <p align="left">
